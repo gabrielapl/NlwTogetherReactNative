@@ -13,5 +13,3 @@ web-build/
 .DS_Store
 
 .env
-
-*discordAuth
